@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059010389700",
+    "project_id": "invoicepdf-868d3",
+    "storage_bucket": "invoicepdf-868d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059010389700:android:091cbf47c785e029314b91",
+        "android_client_info": {
+          "package_name": "com.example.invoice_pdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059010389700-tbnuvqr2shfdqdloubgnj32o9758h85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnBfkT2O91X_2qQ84k2ZvRVC2X92MJPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059010389700-tbnuvqr2shfdqdloubgnj32o9758h85o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
